@@ -1,11 +1,15 @@
 # loremipsum
 Ejercicios propuesto por XAcademy
 
-Crea un nuevo repositorio público de github "loremipsum"
-Clona el repositorio en tu local
-Crea una nueva rama en tu repositorio local, llamada "generarlipsum"
-Agrega  a tu repositorio el archivo lipsum.sh que se provee adjunto a esta tarea
-Genera los 5 archivos txt basándose en el sitio lipsum.com (ejecutando bash ./lipsum.sh) (curl debe estar instalado usando sudo apt install curl)
+1- Crea un nuevo repositorio público de github "loremipsum"
+
+2- Clona el repositorio en tu local
+
+3- Crea una nueva rama en tu repositorio local, llamada "generarlipsum"
+
+4- Agrega  a tu repositorio el archivo lipsum.sh que se provee adjunto a esta tarea
+
+5- Genera los 5 archivos txt basándose en el sitio lipsum.com (ejecutando bash ./lipsum.sh) (curl debe estar instalado usando sudo apt install curl)
 Verifica que se crearon los cinco archivos y que tengan contenido
 Crea un commit con los archivos generados y el lipsum.sh, luego haz un push a tu repositorio en github.
 Codifica un nuevo archivo, "contar.sh", que lea cada uno de los txt generados y luego devuelva por cada archivo, la cantidad de líneas de ese archivo.
